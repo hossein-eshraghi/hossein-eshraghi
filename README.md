@@ -13,7 +13,7 @@ src="https://img.shields.io/github/followers/hossein-eshraghi?logo=github&style=
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://www..com)](https://www..com)
 [![Medium](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/medium.svg)](https://medium.com/@hossein-eshraghi)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/hossein__eshraghi/)](https://www.instagram.com/hossein__eshraghi)
-[![Github](https://img.shields.io/github/followers/hossein-eshraghi?label=Follow&style=social)](https://github.com/hossein__eshraghi)
+[![Github](https://img.shields.io/github/followers/hossein-eshraghi?label=Follow&style=social)](https://github.com/hossein-eshraghi)
 
 - 💻 Owner of [**PyDevCode**](https://github.com/hossein-eshraghi) github organization. Check it out for daily Python and Machine Learning contents.
 - 🤔 I’m currently reading [Architecture Patterns with Python](https://learning.oreilly.com/library/view/architecture-patterns-with/9781492052197/preface01.html). Check it out if interested.
