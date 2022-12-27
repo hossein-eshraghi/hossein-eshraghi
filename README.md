@@ -24,6 +24,11 @@ src="https://img.shields.io/github/followers/hossein-eshraghi?logo=github&style=
   <img width="45%" align="left" src="https://camo.githubusercontent.com/07b313c1fdf57aac7c3417eebb0a32d57b604029647d4bb3ca5396c237f56160/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d68656a617a697a6f2673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="eshraghi" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=hossein-eshraghi&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;">
 </div>
 
+ <div>
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hossein-eshraghi&show_icons=true&locale=en&layout=compact" alt="eshraghi" />
+  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=hossein-eshraghi&" alt="eshraghi" />
+</div> 
+ 
 <!----------------------------->
 <!-- COMMENTED FOR LATER USE -->
 <!----------------------------->
