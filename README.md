@@ -16,13 +16,12 @@ src="https://img.shields.io/github/followers/hossein-eshraghi?logo=github&style=
 [![Github](https://img.shields.io/github/followers/hossein-eshraghi?label=Follow&style=social)](https://github.com/hossein-eshraghi)
 
 - 💻 Owner of [**PyDevCode**](https://github.com/pydevcode) github organization. Check it out for daily Python and Machine Learning contents.
-- 🤔 I’m currently reading [Architecture Patterns with Python](https://learning.oreilly.com/library/view/architecture-patterns-with/9781492052197/preface01.html). Check it out if interested.
+<!-- - 🤔 I’m currently reading [Architecture Patterns with Python](https://learning.oreilly.com/library/view/architecture-patterns-with/9781492052197/preface01.html). Check it out if interested. -->
 - 🌱 I also teach Python, Machine Learning, Git, etc. Visit PyDevCode website, [PyDevCode.ai](https://www.PyDevCode.ai), and also my [teaching material](https://github.com/pydevcode).
 - 📫 How to reach me: pydevcode@gmail.com
 
 <div>
-  <img width="45%" align="left" src="https://camo.githubusercontent.com/07b313c1fdf57aac7c3417eebb0a32d57b604029647d4bb3ca5396c237f56160/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67733f757365726e616d653d68656a617a697a6f2673686f775f69636f6e733d74727565266c6f63616c653d656e266c61796f75743d636f6d70616374" alt="eshraghi" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs?username=hossein-eshraghi&amp;show_icons=true&amp;locale=en&amp;layout=compact" style="max-width: 100%;">
-  
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hossein-eshraghi&show_icons=true&locale=en&layout=compact" alt="eshraghi" />
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=hossein-eshraghi&" alt="eshraghi" />
 </div> 
  
