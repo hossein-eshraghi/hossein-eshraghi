@@ -15,7 +15,7 @@ src="https://img.shields.io/github/followers/hossein-eshraghi?logo=github&style=
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/hossein__eshraghi/)](https://www.instagram.com/hossein__eshraghi)
 [![Github](https://img.shields.io/github/followers/hossein-eshraghi?label=Follow&style=social)](https://github.com/hossein-eshraghi)
 
-- 💻 Owner of [**PyDevCode**](https://github.com/hossein-eshraghi) github organization. Check it out for daily Python and Machine Learning contents.
+- 💻 Owner of [**PyDevCode**](https://github.com/pydevcode) github organization. Check it out for daily Python and Machine Learning contents.
 - 🤔 I’m currently reading [Architecture Patterns with Python](https://learning.oreilly.com/library/view/architecture-patterns-with/9781492052197/preface01.html). Check it out if interested.
 - 🌱 I also teach Python, Machine Learning, Git, etc. Visit PyDevCode website, [PyDevCode.ai](https://www.PyDevCode.ai), and also my [teaching material](https://github.com/pydevcode).
 - 📫 How to reach me: pydevcode@gcom
