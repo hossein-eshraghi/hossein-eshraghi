@@ -12,7 +12,7 @@ src="https://img.shields.io/github/followers/hossein-eshraghi?logo=github&style=
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:pydevcode@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://www..com)](https://www..com)
 [![Medium](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/medium.svg)](https://medium.com/@hossein-eshraghi)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/hossein__eshraghi/)](https://www.instagram.com/hossein__eshraghi)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/pydev.code/)](https://www.instagram.com/pydev.code)
 [![Github](https://img.shields.io/github/followers/hossein-eshraghi?label=Follow&style=social)](https://github.com/hossein-eshraghi)
 
 - 💻 Owner of [**PyDevCode**](https://github.com/pydevcode) github organization. Check it out for daily Python and Machine Learning contents.
