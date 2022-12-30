@@ -41,7 +41,7 @@ I also work on CCTV based on IoT in a Company, and I love bash scripting on Linu
 <a href="https://kaggle.com/hosseineshraghi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="hosseineshraghi" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/pydevcode" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pydevcode" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/pydevcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="pydevcode" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/@eshraghi4office" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@eshraghi4office" height="30" width="40" /></a>
+<a href="https://www.hackerearth.com/@pydevcode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="@pydevcode" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
