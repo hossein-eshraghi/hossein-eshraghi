@@ -11,8 +11,8 @@ src="https://img.shields.io/twitter/follow/pydevcode?logo=twitter&style=for-the-
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/pydev.code/)](https://www.instagram.com/pydev.code)
 [![Github](https://img.shields.io/github/followers/hossein-eshraghi?label=Follow&style=social)](https://github.com/hossein-eshraghi)
 
-<h3 align="justify">I am a GNU/Linux software developer (Red Hat, Debian) with Python as a Data Scientist. Research interests include navigation systems for autonomous vehicles using Deep Learning, 3D Computer Vision, and Machine Learning.
-I also work on CCTV based on IoT in a Company, and I love bash scripting on Linux ❤️ and I try to better progress as soon as possible. 💯</h3>
+<h4 align="justify">As a Data Scientist, I work on GNU/Linux operating systems (environments) such as Red Hat and Debian (alongside Python). My research interests include navigation systems for autonomous vehicles by utilizing Deep Learning, 3D Computer Vision, and Machine Learning.
+Whenever possible, I enjoy bash scripting on Linux, and I also work on IoT-based CCTVs.</h4>
 
 - 💻 Owner of [**PyDevCode**](https://github.com/pydevcode) github organization. Check it out for daily **Python and Machine Learning** contents.
 <!-- - 🤔 I’m currently reading [Architecture Patterns with Python](https://learning.oreilly.com/library/view/architecture-patterns-with/9781492052197/preface01.html). Check it out if interested. -->
