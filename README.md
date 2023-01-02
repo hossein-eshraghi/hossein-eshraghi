@@ -75,7 +75,7 @@ Whenever possible, I enjoy bash scripting on Linux, and I also work on IoT-based
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 </p>
 
-<!--<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hossein-eshraghi&show_icons=true&locale=en&layout=compact" alt="hossein-eshraghi" /></p>-->
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hossein-eshraghi&show_icons=true&locale=en&layout=compact" alt="hossein-eshraghi" /></p> -->
 <p>&nbsp;</p>
 
 <div align="center">
@@ -83,7 +83,9 @@ Whenever possible, I enjoy bash scripting on Linux, and I also work on IoT-based
 </div>
 <div align="center">
   <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hossein-eshraghi&show_icons=true&locale=en&layout=compact" alt="hossein-eshraghi" />
-  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=hossein-eshraghi&show_icons=true&locale=en" alt="hossein-eshraghi" /></div>
+  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hossein-eshraghi&show_icons=true&locale=en&layout=compact" alt="hossein-eshraghi" /></p>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api?username=hossein-eshraghi&show_icons=true&locale=en" alt="hossein-eshraghi" />
+</div>
 
 
 <!----------------------------->
