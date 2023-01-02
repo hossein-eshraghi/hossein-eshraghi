@@ -82,8 +82,7 @@ Whenever possible, I enjoy bash scripting on Linux, and I also work on IoT-based
   <img width="97%" src="https://github-readme-streak-stats.herokuapp.com/?user=hossein-eshraghi&" alt="hossein-eshraghi" />
 </div>
 <div align="center">
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs?username=hossein-eshraghi&show_icons=true&locale=en&layout=compact" alt="hossein-eshraghi" />
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hossein-eshraghi&show_icons=true&locale=en&layout=compact" alt="hossein-eshraghi" /></p>
+  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossein-eshraghi&show_icons=true&locale=en&layout=compact" alt="hossein-eshraghi" />
   <img width="60%" src="https://github-readme-stats.vercel.app/api?username=hossein-eshraghi&show_icons=true&locale=en" alt="hossein-eshraghi" />
 </div>
 
