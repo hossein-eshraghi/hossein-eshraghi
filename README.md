@@ -3,7 +3,9 @@
 src="https://img.shields.io/twitter/follow/pydevcode?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a> </p>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhossein-eshraghi%2Fhossein-eshraghi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://www.sololearn.com/profile/21937137)
+<!-- [![Profile](https://komarev.com/ghpvc/?username=hossein-eshraghi&style=flat-square)](https://www.sololearn.com/profile/21937137) -->
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhossein-eshraghi%2Fhossein-eshraghi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://github.com/hossein-eshraghi)
+[![SoloLearn](https://img.shields.io/badge/-SoloLearn-orange?style=flat&logo=SoloLearn&logoColor=white)](https://www.sololearn.com/profile/21937137)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hossein-eshraghi/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:eshraghi4office@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.researchgate.net/profile/Hossein_Eshraghi3)](https://www.researchgate.net/profile/Hossein_Eshraghi3)
