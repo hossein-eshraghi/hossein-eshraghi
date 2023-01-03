@@ -18,18 +18,18 @@ src="https://img.shields.io/twitter/follow/pydevcode?logo=twitter&style=for-the-
 <h4 align="justify">As a Data Scientist, I work on GNU/Linux operating systems (environments) such as Red Hat and Debian (alongside Python). My research interests include navigation systems for autonomous vehicles by utilizing Deep Learning, 3D Computer Vision, and Machine Learning.
 Whenever possible, I enjoy bash scripting on Linux, and I also work on IoT-based CCTVs.</h4>
 
-- 💻 Owner of [**PyDevCode**](https://github.com/pydevcode) github organization. Check it out for daily **Python and Machine Learning** contents.
+- 💻 Owner of [[**@PyDevCode**]](https://github.com/pydevcode) github organization. Check it out for daily **Python and Machine Learning** contents.
 <!-- - 🤔 I’m currently reading [Architecture Patterns with Python](https://learning.oreilly.com/library/view/architecture-patterns-with/9781492052197/preface01.html). Check it out if interested. -->
-- 🌱 I also teach **Python, Machine Learning, Git, etc.** Visit PyDevCode github page, [**@PyDevCode**](https://github.com/pydevcode), and also my [**teaching material**](https://instagram.com/pydev.code).
+- 🌱 I also teach **Python, Machine Learning, Git, etc.** Visit PyDevCode github page, [[**@PyDevCode**]](https://github.com/pydevcode), and also [[**my teaching material**]](https://instagram.com/pydev.code).
 - 🌱 I’m currently learning **Data Science**
 
-- 📝 I regularly write articles on [**Anomaly modelling in machine learning based navigation system of autonomous vehicles**](https://ieeexplore.ieee.org/document/9349606)
+- 📝 I regularly write articles on [[**Anomaly modelling in machine learning based navigation system of autonomous vehicles**]](https://ieeexplore.ieee.org/document/9349606)
 
 - 💬 Ask me about **Python, R, Java Script, Bash Script for Linux Distribution 🐧 and etc.**
 
-- 📫 How to reach me **pydevcode@gmail.com**
+- 📫 How to reach me [**pydevcode@gmail.com**]
 
-- 📄 Know about my experiences [**Resume**](https://www.linkedin.com/in/hossein-eshraghi/)
+- 📄 Know about my experiences [[**CV**]](https://www.linkedin.com/in/hossein-eshraghi/)
 
 - ⚡ Fun fact **This is Just The Beginning**
 
