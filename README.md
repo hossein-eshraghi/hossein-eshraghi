@@ -2,15 +2,17 @@
 <p align="left"><a href="https://www.twitter.com/pydevcode" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/pydevcode?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a> </p>
-
-<!-- [![Profile](https://komarev.com/ghpvc/?username=hossein-eshraghi&style=flat-square)](https://www.sololearn.com/profile/21937137) -->
+<!--
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhossein-eshraghi%2Fhossein-eshraghi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://github.com/hossein-eshraghi)
-[![SoloLearn](https://img.shields.io/badge/-SoloLearn-orange?style=flat&logo=SoloLearn&logoColor=white)](https://www.sololearn.com/profile/21937137)
+-->
+
+[![Profile](https://komarev.com/ghpvc/?username=hossein-eshraghi&style=flat)](https://github.com/hossein-eshraghi)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/hossein-eshraghi/)
-[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:eshraghi4office@gmail.com)
-[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.researchgate.net/profile/Hossein_Eshraghi3)](https://www.researchgate.net/profile/Hossein_Eshraghi3)
+[![SoloLearn](https://img.shields.io/badge/-SoloLearn-gray?style=flat&logo=SoloLearn&logoColor=white)](https://www.sololearn.com/profile/21937137)
+[![Website](https://img.shields.io/badge/-MyResearch-c14438?style=flat&logo=ResearchGate&logoColor=white&link=https://www.researchgate.net/profile/Hossein_Eshraghi3)](https://www.researchgate.net/profile/Hossein_Eshraghi3)
 [![Stackoverflow](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/stackoverflow.svg)](https://stackoverflow.com/users/15025644/hossein-eshraghi)
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/pydev.code/)](https://www.instagram.com/pydev.code)
+[![Instagram](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/pydev.code/)](https://www.instagram.com/pydev.code)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:eshraghi4office@gmail.com)
 [![Github](https://img.shields.io/github/followers/hossein-eshraghi?label=Follow&style=social)](https://github.com/hossein-eshraghi)
 
 <h4 align="justify">As a Data Scientist, I work on GNU/Linux operating systems (environments) such as Red Hat and Debian (alongside Python). My research interests include navigation systems for autonomous vehicles by utilizing Deep Learning, 3D Computer Vision, and Machine Learning.
