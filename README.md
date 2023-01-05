@@ -15,7 +15,7 @@ src="https://img.shields.io/twitter/follow/pydevcode?logo=twitter&style=for-the-
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:eshraghi4office@gmail.com)
 [![Github](https://img.shields.io/github/followers/hossein-eshraghi?label=Follow&style=social)](https://github.com/hossein-eshraghi)
 
-<h4 align="left">As a Data Scientist, I work on GNU/Linux operating systems (Distributions) such as Red Hat and Debian (alongside Python). <br> My research interests include navigation systems for autonomous vehicles by utilizing Deep Learning, 3D Computer Vision, and Machine Learning.
+<h4 align="left">As a <a href="https://www.linkedin.com/in/hossein-eshraghi/">Data Scientist</a>, I work on GNU/Linux operating systems (Distributions) such as Red Hat and Debian (alongside Python). <br> My research interests include navigation systems for autonomous vehicles by utilizing Deep Learning, 3D Computer Vision, and Machine Learning.
 Whenever possible, I enjoy bash scripting on Linux, and I also work on IoT-based CCTVs.</h4>
 
 - 💻 Owner of [[**@PyDevCode**]](https://github.com/pydevcode) github organization. Check it out for daily **Python and Machine Learning** contents.
