@@ -1,6 +1,5 @@
 <!--   my-ticker --> 
 
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230969DA&center=true&width=1000&lines=>+Hi+there+👨‍💻,+I+am+Hossein+Eshraghi;>+Welcome+to+My+Profile!;>+Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
 
 <img src="https://user-images.githubusercontent.com/31166329/210954642-88765058-4b12-4e86-a160-ad056fca62cc.png">
@@ -88,16 +87,23 @@ Whenever possible, I enjoy bash scripting on Linux, and I also work on IoT-based
 <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 </p>
 
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+[![Eshraghi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hossein-eshraghi&theme=github-compact)](https://github.com/BEPb/github-readme-activity-graph)
+
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hossein-eshraghi&show_icons=true&locale=en&layout=compact" alt="hossein-eshraghi" /></p> -->
 <!-- <p>&nbsp;</p> -->
 
-<div align="left">
+
+  <div align="left">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hossein-eshraghi&" alt="hossein-eshraghi" />
+  <img width="1%">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hossein-eshraghi&show_icons=true&locale=en" alt="hossein-eshraghi" />
+  </div>
  </div>
  <div align="left">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossein-eshraghi&show_icons=true&locale=en&layout=compact" alt="hossein-eshraghi" />
-</div>
+
 
 
 <!----------------------------->
