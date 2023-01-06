@@ -1,8 +1,10 @@
 <!--   my-ticker --> 
 
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230969DA&center=true&width=1000&lines=>+Hi+there+👨‍💻,+I+am+Hossein+Eshraghi;>+Welcome+to+My+Profile!;>+Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
+
 <img src="https://user-images.githubusercontent.com/31166329/210954642-88765058-4b12-4e86-a160-ad056fca62cc.png">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230969DA&center=true&width=1000&lines=Hi+there+👨‍💻,+I+am+Hossein+Eshraghi;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
 <a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="85" width="85" ></a>
 
 <!-- <h1 align="center">Hi, I'm Hossein 👨💻</h1> -->
