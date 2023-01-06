@@ -1,9 +1,13 @@
+<!--   my-ticker -->  
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%230969DA&center=true&width=1000&lines=Hi+there+👨‍💻,+I+am+Hossein+Eshraghi;+Welcome+to+My+Profile!;Over+4+years+of+programming+experience;Always+learning+new+things+;Machine+learning+enthusiast+;Kaggle+community+member)](https://git.io/typing-svg)
+
 <!-- <h1 align="center">Hi, I'm Hossein 👨💻</h1> -->
 <p align="left"><a href="https://www.twitter.com/pydevcode" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/pydevcode?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a> </p>
 <!--
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhossein-eshraghi%2Fhossein-eshraghi&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://github.com/hossein-eshraghi)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhossein-eshraghi&count_bg=%2379C83D&title_bg=#24292F&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://github.com/hossein-eshraghi)
 -->
 
 [![Profile](https://komarev.com/ghpvc/?username=hossein-eshraghi&style=flat)](https://github.com/hossein-eshraghi)
