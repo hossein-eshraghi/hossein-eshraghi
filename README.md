@@ -4,7 +4,7 @@
 
 <img src="https://user-images.githubusercontent.com/31166329/210954642-88765058-4b12-4e86-a160-ad056fca62cc.png">
 
-<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="85" width="85" ></a>
+<a href="https://www.python.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" align="right" height="80" width="80" ></a>
 
 <!-- <h1 align="center">Hi, I'm Hossein 👨💻</h1> -->
 <p align="left"><a href="https://www.twitter.com/pydevcode" target="_blank" rel="noreferrer"><img
