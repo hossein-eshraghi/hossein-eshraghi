@@ -33,7 +33,7 @@ Whenever possible, I enjoy bash scripting on Linux, and I also work on IoT-based
 
 - ⚡ Fun fact **This is Just The Beginning**
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=hossein-eshraghi" alt="hossein-eshraghi" /></a> </p>
+<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=hossein-eshraghi"><img src="https://github-profile-trophy.vercel.app/?username=hossein-eshraghi&theme=monokai" alt="hossein-eshraghi" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
