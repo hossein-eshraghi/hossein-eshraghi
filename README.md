@@ -95,7 +95,7 @@ Whenever possible, I enjoy bash scripting on Linux, and I also work on IoT-based
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hossein-eshraghi&show_icons=true&locale=en&layout=compact" alt="hossein-eshraghi" /></p> -->
 <!-- <p>&nbsp;</p> -->
 
-
+<!--
   <div align="left">
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hossein-eshraghi&" alt="hossein-eshraghi" />
   <img width="1%">
@@ -105,7 +105,7 @@ Whenever possible, I enjoy bash scripting on Linux, and I also work on IoT-based
  <div align="left">
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossein-eshraghi&show_icons=true&locale=en&layout=compact" alt="hossein-eshraghi" />
 
-
+-->
 
 <!----------------------------->
 <!-- COMMENTED FOR LATER USE -->
