@@ -41,7 +41,7 @@ Whenever possible, I enjoy bash scripting on Linux, and I also work on IoT-based
 
 - ⚡ Fun fact **This is Just The Beginning**
 
-<p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=hossein-eshraghi"><img src="https://github-profile-trophy.vercel.app/?username=hossein-eshraghi&theme=monokai" alt="hossein-eshraghi" /></a> </p>
+<!-- <p align="center"> <a href="https://github-profile-trophy.vercel.app/?username=hossein-eshraghi"><img src="https://github-profile-trophy.vercel.app/?username=hossein-eshraghi&theme=monokai" alt="hossein-eshraghi" /></a> </p> -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -88,8 +88,9 @@ Whenever possible, I enjoy bash scripting on Linux, and I also work on IoT-based
 </p>
 
 <!--   GitHub stats graph -->
+<!--
 ### 📈 GitHub Activity Graph:
-[![Eshraghi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hossein-eshraghi&theme=github-compact)](https://github.com/BEPb/github-readme-activity-graph)
+[![Eshraghi's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=hossein-eshraghi&theme=github-compact)](https://github.com/BEPb/github-readme-activity-graph) -->
 
 <!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hossein-eshraghi&show_icons=true&locale=en&layout=compact" alt="hossein-eshraghi" /></p> -->
 <!-- <p>&nbsp;</p> -->
